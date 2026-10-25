@@ -8,3 +8,4 @@ public class Product
     public decimal Price { get; set; }
     public bool IsAvailable { get; set; }
 }
+
